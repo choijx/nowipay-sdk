@@ -1,0 +1,19 @@
+{
+    "name": "choijx/nowipay-sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "caijx",
+            "email": "caijx@ggxx.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "choijx\\NowipaySdk\\": "src/"
+        }
+    }
+
+}
